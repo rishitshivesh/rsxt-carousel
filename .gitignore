@@ -1,0 +1,4 @@
+.yarn
+/yarn/*
+node_modules
+.next
